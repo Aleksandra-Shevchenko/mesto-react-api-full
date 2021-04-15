@@ -8,6 +8,6 @@
 * выпущен  и подключен SSL сертификат,
 * реализовано логирование запросов и ошибок
 
-**Ссылка на фронтенд:** https://shev.mesto.students.nomoredomains.icu
-**Ссылка на бэкенд:** https://api.shev.mesto.students.nomoredomains.icu
-**Публичный IP сервера:** 178.154.200.149
+* **Ссылка на фронтенд:** https://shev.mesto.students.nomoredomains.icu,
+* **Ссылка на бэкенд:** https://api.shev.mesto.students.nomoredomains.icu,
+* **Публичный IP сервера:** 178.154.200.149
