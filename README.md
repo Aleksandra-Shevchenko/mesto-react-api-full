@@ -45,8 +45,7 @@
 ----------------
 ### Запуск:
 * Ссылка на фронтенд: https://shev.mesto.students.nomoredomains.icu,
-* Адрес для запросов на бэкенд: https://api.shev.mesto.students.nomoredomains.icu,
-* Публичный IP сервера: 178.154.200.149
+* Адрес для запросов на бэкенд: https://api.shev.mesto.students.nomoredomains.icu
 
 --------------
 [Ссылка на макет в Figma](https://www.figma.com/file/StZjf8HnoeLdiXS7dYrLAh/JavaScript.-Sprint-4)
